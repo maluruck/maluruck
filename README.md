@@ -2,15 +2,15 @@
 
 **`Desenvolvedora FullStack`**
 
-Me chamo Maria Luiza Rück, tenho 27 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando o 3º semestre de Engenharia de Software na UNICSUL. Sou apaixonada por tecnologia e, principalmente, desenvolvimento web.
+Me chamo Maria Luiza Rück, tenho 27 anos e sou natural de Santa Catarina. Concluí o ensino médio no IFC, com o curso técnico em informática. Atualmente, estou cursando o 3º semestre de Engenharia de Software na UNICSUL. Sou apaixonada por tecnologia e, principalmente, desenvolvimento web. 
 
 <p align="left">
     <a href="https://www.linkedin.com/in/maria-luiza-r-9514081a1/">
         <img 
             alt="linkedin" 
             title="LinkedIn" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCo-gJ8RnTn5akHqHvO55DVA?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
+          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+            />
     </a>
     <a href="">
         <img 
