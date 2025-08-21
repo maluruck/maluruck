@@ -9,7 +9,7 @@ Me chamo Maria Luiza Rück, tenho 27 anos e sou natural de Santa Catarina. Concl
         <img 
             alt="linkedin" 
             title="LinkedIn" 
-          src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" 
             />
     </a>
     <a href="">
